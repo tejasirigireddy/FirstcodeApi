@@ -16,7 +16,7 @@ namespace FirstcodeApi
         [Required(ErrorMessage = "Enter first name")]
         public string? FirstName { get; set; }
 
-        [Required(ErrorMessage = "Enter last name")]
+        [Required(ErrorMessage = "Enter l name")]
         public string? LastName { get; set; }
 
 
